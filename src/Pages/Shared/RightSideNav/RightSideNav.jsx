@@ -9,9 +9,9 @@ const RightSideNav = () => {
     return (
         <div>
             {/* Login With */}
-            <div className='mb-6 p-4'>
-                <h2 className='mb-4 text-2xl font-bold'>Login With</h2>
-                <div>
+            <div className='mb-6'>
+                <h2 className='mb-4 text-2xl font-bold pl-4'>Login With</h2>
+                <div className=' p-4'>
                     <div>
                         <button className="btn btn-outline mb-4 w-full">
                             <FcGoogle className='text-xl'></FcGoogle>

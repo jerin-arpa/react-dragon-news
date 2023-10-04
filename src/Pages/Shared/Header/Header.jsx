@@ -3,7 +3,7 @@ import moment from 'moment';
 
 const Header = () => {
     return (
-        <div className='my-10 text-center'>
+        <div className='mt-10 text-center mb-5'>
             <div className='flex justify-center mb-4'>
                 <img src={logo} alt="" /></div>
             <p>Journalism Without Fear or Favour</p>
